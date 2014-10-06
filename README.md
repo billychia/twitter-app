@@ -1,8 +1,8 @@
 twitter-app
 ===========
 
-A sample app built using twitter's API
+A sample app built using node.js and [twitter npm module](https://www.npmjs.org/package/twitter)
 
-Twitter API Key is stored in config.js
+Twitter API Keys are stored in config.js
 
 See config.js.sample
